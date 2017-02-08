@@ -5,12 +5,13 @@
 ** Login   <florian.berthier@epitech.eu>
 **
 ** Started on  Mon Oct 31 11:14:50 2016 Florian Berthier
-** Last update Wed Feb  8 16:19:00 2017 Florian Berthier
+** Last update Wed Feb  8 18:14:59 2017 Florian Berthier
 */
 
 #ifndef MY_H
 #define MY_H
 
+int     validation(char *);
 int     reduc(int);
 int	calculation(char *);
 
